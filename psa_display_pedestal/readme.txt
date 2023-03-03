@@ -1,0 +1,13 @@
+this project folder is organized with the following folders:
+-3d_models
+	-.stl and .3mf model files 
+-datasheets
+	-datasheets for components used
+-drawings
+	-.dwg files generated from cad files
+-images
+	-misc project images
+-spreadsheets
+	-excel sheets for various budgets, BOMs, analysis, etc.
+-system_diagrams
+	-2D flow charts showing system configuratiopns and performance

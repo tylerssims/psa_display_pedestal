@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Huzzah_lib_sch")(type "KiCad")(uri "${KIPRJMOD}/lib_sch/TLV1117LV33DCYT.kicad_sym")(options "")(descr ""))
+)
